@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.992ec4c6.css",
-    "main.js": "/my-app/static/js/main.22ad8c3a.js",
-    "static/media/vision.png": "/my-app/static/media/vision.067d4ae1936d64a577ce.png",
-    "static/media/error.png": "/my-app/static/media/error.3bb1ed6e23484ca981a9.png",
-    "static/media/mjolnir.png": "/my-app/static/media/mjolnir.61f31e1809f12183a524.png",
-    "index.html": "/my-app/index.html",
-    "main.992ec4c6.css.map": "/my-app/static/css/main.992ec4c6.css.map",
-    "main.22ad8c3a.js.map": "/my-app/static/js/main.22ad8c3a.js.map"
+    "main.css": "/MarvelAPIOnCRA/static/css/main.992ec4c6.css",
+    "main.js": "/MarvelAPIOnCRA/static/js/main.9d18cef2.js",
+    "static/media/vision.png": "/MarvelAPIOnCRA/static/media/vision.067d4ae1936d64a577ce.png",
+    "static/media/error.png": "/MarvelAPIOnCRA/static/media/error.3bb1ed6e23484ca981a9.png",
+    "static/media/mjolnir.png": "/MarvelAPIOnCRA/static/media/mjolnir.61f31e1809f12183a524.png",
+    "index.html": "/MarvelAPIOnCRA/index.html",
+    "main.992ec4c6.css.map": "/MarvelAPIOnCRA/static/css/main.992ec4c6.css.map",
+    "main.9d18cef2.js.map": "/MarvelAPIOnCRA/static/js/main.9d18cef2.js.map"
   },
   "entrypoints": [
     "static/css/main.992ec4c6.css",
-    "static/js/main.22ad8c3a.js"
+    "static/js/main.9d18cef2.js"
   ]
 }
